@@ -13,6 +13,7 @@ Vamos a tener diferentes carpetas y aplicaciones para cada tipo de integración,
     4. [Marketplace](./integraciones/marketplace/README.md): Vamos a ser el intermediario entre un usuario de nuestra aplicación que quiere recibir mensajes en su muro y un usuario que quiere pagar para escribir en ese muro. Vamos a usar Checkout Pro con la integración de Marketplace para quedarnos con una ganancia por cada mensaje.
 2. Configuración
     1. [Clonar el repositorio](./configuracion/clonar-aplicacion/README.md): Como clonar el repositorio y correr las aplicaciones iniciales.
+
     2. [Crear una aplicación en Mercado Pago](./configuracion/crear-aplicacion/README.md): Como entrar al panel de desarrolladores de Mercado Pago y crear una aplicación.
     3. [Cuentas de prueba](./configuracion/cuentas-de-prueba/README.md): Como crear cuentas de prueba y usar tarjetas de prueba.
     4. [Credenciales](./configuracion/credenciales/README.md): Que son y que tipo de credenciales existen, cuando y como usarlas.
